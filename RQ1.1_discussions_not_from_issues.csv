@@ -1,0 +1,362 @@
+repo_name,discussion,title,number,state,timestamp,emoji,category,Label
+react-spring/react-three-fiber,https://github.com/react-spring/react-three-fiber/discussions/584,How to deploy react-three-fiber application?,584,Unanswered,2020-07-21T16:26:51Z,,,Usage
+tailwindcss/tailwindcss,https://github.com/tailwindcss/tailwindcss/discussions/1512,Anyone here who is using Tailwind and needs to support old browsers? What plugins do you use to get around?,1512,Unanswered,2020-03-30T10:46:26Z,,,Conceptual
+vercel/next.js,https://github.com/vercel/next.js/discussions/14207,Serve different version of static file based on the environment,14207,Unanswered,2020-06-15T21:58:41Z,🙏,Help,Conceptual
+tailwindcss/tailwindcss,https://github.com/tailwindcss/tailwindcss/discussions/1961,the button in sm: w-full,1961,Unanswered,2020-06-24T17:47:17Z,🙏,Help,Usage
+vercel/next.js,https://github.com/vercel/next.js/discussions/13833,Head elements I added in layout.js and _app.js don't appear in exported HTML files.,13833,Unanswered,2020-06-06T05:58:39Z,🙏,Help,Review
+vercel/next.js,https://github.com/vercel/next.js/discussions/13715,Using a single catch-all route for CMS pages,13715,Unanswered,2020-06-03T13:32:05Z,🙏,Help,Discrepancy
+directus/directus,https://github.com/directus/directus/discussions/2708,V9 Release: when?,2708,Unanswered,2020-05-14T14:41:58Z,,,Plans
+linkerd/linkerd2,https://github.com/linkerd/linkerd2/discussions/4684,thoughts on trace inferred metrics?,4684,Answered,2020-06-29T14:55:15Z,,,Usage
+beakerbrowser/beaker,https://github.com/beakerbrowser/beaker/discussions/1743,HyperScript,1743,Unanswered,2020-06-15T11:49:53Z,,,Discrepancy
+strapi/strapi,https://github.com/strapi/strapi/discussions/5962,queryTxt ETIMEOUT problem,5962,Answered,2020-04-26T21:55:42Z,,,Errors
+vercel/next.js,https://github.com/vercel/next.js/discussions/10926,React ssr(next)-getInitialProps insert a reactNode to props render,10926,Unanswered,2020-03-10T08:29:27Z,,,Review
+prisma/prisma,https://github.com/prisma/prisma/discussions/2678,Is the Prisma Client faster because of Rust?,2678,Answered,2020-06-06T18:19:02Z,🙏,Help,Conceptual
+vercel/next.js,https://github.com/vercel/next.js/discussions/14412,"Flash of unstyled content (FOUC) , css modules and global css.",14412,Unanswered,2020-06-21T14:26:58Z,🙏,Help,Usage
+laravel/framework,https://github.com/laravel/framework/discussions/33537,Add except method to Model,33537,Answered,2020-07-14T13:05:39Z,,,Learning
+vercel/next.js,https://github.com/vercel/next.js/discussions/14919,Does NextJs have an official chat on Gitter or Discord,14919,Answered,2020-07-07T13:04:48Z,#️⃣,General,Learning
+vercel/next.js,https://github.com/vercel/next.js/discussions/12325,Add custom attributes to the <body> tag,12325,Answered,2020-04-29T20:42:02Z,,,Usage
+react-hook-form/react-hook-form,https://github.com/react-hook-form/react-hook-form/discussions/2004,"Disable the submit button after successful submission, until isDirty again",2004,Unanswered,2020-07-01T07:16:57Z,🙏,Help,Usage
+vercel/next.js,https://github.com/vercel/next.js/discussions/12048,How to add script with generated [contenthash] from public folder?,12048,Unanswered,2020-04-20T14:07:41Z,,,Review
+prisma/prisma,https://github.com/prisma/prisma/discussions/2372,"How to do ""connect"" updates on many-to-many relations?",2372,Unanswered,2020-05-05T09:45:08Z,,,Review
+strapi/strapi,https://github.com/strapi/strapi/discussions/6911,Upload file during plugin entry creation,6911,Unanswered,2020-07-04T14:18:45Z,,,Errors
+vercel/next.js,https://github.com/vercel/next.js/discussions/11342,API error in getStaticProps => build error?,11342,Unanswered,2020-03-25T08:00:48Z,,,Usage
+vercel/next.js,https://github.com/vercel/next.js/discussions/14137,Adding a className attribute to body in _document.js,14137,Unanswered,2020-06-12T18:16:43Z,🙏,Help,Review
+strapi/strapi,https://github.com/strapi/strapi/discussions/6103,How to add translation to strapi,6103,Answered,2020-05-07T11:29:52Z,,,Conceptual
+vercel/next.js,https://github.com/vercel/next.js/discussions/13163,Exposing Types,13163,Unanswered,2020-05-20T21:01:45Z,🙏,Help,Usage
+ImageMagick/ImageMagick,https://github.com/ImageMagick/ImageMagick/discussions/2007,[Help] Black artefacts when converting gif to images.,2007,Answered,2020-05-12T14:04:04Z,,,Errors
+tannerlinsley/react-query,https://github.com/tannerlinsley/react-query/discussions/778,Optionally suppress errors in suspense mode on server-side,778,Unanswered,2020-07-17T19:25:14Z,,,Review
+ImageMagick/ImageMagick,https://github.com/ImageMagick/ImageMagick/discussions/2002,Recognize edge-coordinates of different (always) rectangular objects,2002,Unanswered,2020-05-10T10:00:56Z,,,Discrepancy
+eclipse-theia/theia,https://github.com/eclipse-theia/theia/discussions/7913,Can i change the default value of preferences parameter?,7913,Answered,2020-05-28T06:43:11Z,,,Discrepancy
+spatie/laravel-activitylog,https://github.com/spatie/laravel-activitylog/discussions/752,Fail to install through composer,752,Answered,2020-07-15T03:03:59Z,🙏,Help,Versions
+system-ui/theme-ui,https://github.com/system-ui/theme-ui/discussions/1038,Use of Them-UI components for native html elements,1038,Unanswered,2020-07-04T16:40:19Z,,,Discrepancy
+react-hook-form/react-hook-form,https://github.com/react-hook-form/react-hook-form/discussions/1780,Documents hard to read,1780,Answered,2020-06-04T19:30:32Z,#️⃣,General,Conceptual
+ImageMagick/ImageMagick,https://github.com/ImageMagick/ImageMagick/discussions/2205,Convert Error,2205,Unanswered,2020-06-27T23:33:32Z,🙏,Help,Errors
+prisma/prisma,https://github.com/prisma/prisma/discussions/2680,"How to perform orderby,pagination and filter from user query.",2680,Answered,2020-06-06T18:52:36Z,🙏,Help,Discrepancy
+storybookjs/storybook,https://github.com/storybookjs/storybook/discussions/11351,Storybook and monorepo,11351,Answered,2020-06-29T16:25:51Z,🙏,Help,Discrepancy
+tannerlinsley/react-table,https://github.com/tannerlinsley/react-table/discussions/2405,Change table state variable for grouping,2405,Unanswered,2020-06-04T05:45:51Z,,,Discrepancy
+vercel/vercel,https://github.com/vercel/vercel/discussions/4047,"Limit concurrent instances, like Scale on v1",4047,Answered,2020-04-11T14:43:30Z,,,Conceptual
+strapi/strapi,https://github.com/strapi/strapi/discussions/6393,Is it possible to globally override response data on all routes?,6393,Answered,2020-05-27T16:13:07Z,,,Review
+ionic-team/capacitor,https://github.com/ionic-team/capacitor/discussions/3123,Updating Capacitor,3123,Unanswered,2020-06-18T11:47:52Z,🙏,Help,Errors
+vercel/next.js,https://github.com/vercel/next.js/discussions/11490,"Nested SSRed components fetching dynamic data, without passing props all the way?",11490,Unanswered,2020-03-30T12:50:13Z,,,Review
+vercel/next.js,https://github.com/vercel/next.js/discussions/15306,Best Practice: Global Site Data from a CMS,15306,Unanswered,2020-07-19T17:17:41Z,🙏,Help,Discrepancy
+strapi/strapi,https://github.com/strapi/strapi/discussions/6523,Quick question about email confirmation,6523,Unanswered,2020-06-03T09:27:54Z,,,Discrepancy
+react-spring/react-spring,https://github.com/react-spring/react-spring/discussions/971,Can react spring be implemented on styled-components hover style?,971,Unanswered,2020-04-28T22:07:43Z,,,Review
+parcel-bundler/parcel,https://github.com/parcel-bundler/parcel/discussions/4769,Parcel@2 for backend and frontend,4769,Unanswered,2020-06-20T01:10:39Z,,,Usage
+vercel/next.js,https://github.com/vercel/next.js/discussions/13500,Import typescript yarn monorepo module,13500,Unanswered,2020-05-28T15:52:15Z,🙏,Help,Errors
+twbs/bootstrap,https://github.com/twbs/bootstrap/discussions/31140,[BS4] Showing 2 icons in select-menu,31140,Answered,2020-06-21T20:31:07Z,,,Review
+vercel/vercel,https://github.com/vercel/vercel/discussions/3890,Anyone have next working with yarn workspaces?,3890,Answered,2020-03-06T21:08:51Z,,,Errors
+vercel/vercel,https://github.com/vercel/vercel/discussions/4553,How do I do custom routing? Is there a full documentation on what 2.0 can do?,4553,Unanswered,2020-06-02T02:41:50Z,🙏,Help,Learning
+starship/starship,https://github.com/starship/starship/discussions/1287,Python version not showing in prompt,1287,Answered,2020-06-04T00:58:40Z,,,Errors
+vercel/next.js,https://github.com/vercel/next.js/discussions/12293,Next js use redux and getinitialprops action together,12293,Unanswered,2020-04-28T21:47:11Z,,,Review
+vercel/vercel,https://github.com/vercel/vercel/discussions/4889,`vercel link scope/project`,4889,Unanswered,2020-07-19T15:29:42Z,🤔,Ideas,Conceptual
+vercel/next.js,https://github.com/vercel/next.js/discussions/13316,connect ECONNREFUSED 127.0.0.1:80,13316,Answered,2020-05-24T15:28:36Z,🙏,Help,Review
+ImageMagick/ImageMagick,https://github.com/ImageMagick/ImageMagick/discussions/2126,Need to access a dll for my .net application,2126,Unanswered,2020-06-09T20:06:30Z,🙏,Help,Discrepancy
+vercel/vercel,https://github.com/vercel/vercel/discussions/4552,github register failed,4552,Unanswered,2020-06-02T02:25:36Z,🙏,Help,Other
+vercel/next.js,https://github.com/vercel/next.js/discussions/11189,styled-jsx server side work with 9.3.1 but not with 9.3,11189,Unanswered,2020-03-19T05:15:10Z,,,Versions
+strapi/strapi,https://github.com/strapi/strapi/discussions/6990,"I'm getting error while installing strapi locally with npx - Oh, it seems that you encountered errors while installing dependencies in your project",6990,Answered,2020-07-13T05:07:51Z,,,Errors
+tannerlinsley/react-table,https://github.com/tannerlinsley/react-table/discussions/2448,Is it possible to remove one row without re-render the entire table,2448,Answered,2020-06-16T01:21:38Z,,,Discrepancy
+concourse/concourse,https://github.com/concourse/concourse/discussions/5505,Concourse web nodes restarting with exit code 137,5505,Answered,2020-04-27T14:49:35Z,🙏,Help,Errors
+vercel/next.js,https://github.com/vercel/next.js/discussions/14310,How do I reduce first load JS file size? (Or possibly reduce to zero for truly static pages),14310,Unanswered,2020-06-18T09:24:44Z,🙏,Help,Review
+vercel/next.js,https://github.com/vercel/next.js/discussions/14468,[SSG] unstable_revalidate for cdn other than vercel,14468,Unanswered,2020-06-22T19:13:44Z,🙏,Help,Learning
+tailwindcss/tailwindcss,https://github.com/tailwindcss/tailwindcss/discussions/1969,Request to change PurgeCSS Option from Whitelist to Allowedlist (or similar),1969,Unanswered,2020-06-25T12:20:38Z,#️⃣,General,Conceptual
+dotnet/aspnetcore,https://github.com/dotnet/aspnetcore/discussions/23721,What is the importSources parameter in RazorProjectEngine.Process?,23721,Unanswered,2020-07-07T04:17:40Z,,,Review
+system-ui/theme-ui,https://github.com/system-ui/theme-ui/discussions/997,Theming own components,997,Unanswered,2020-06-12T17:23:30Z,,,Review
+concourse/concourse,https://github.com/concourse/concourse/discussions/5406,Concourse API Plan,5406,Unanswered,2020-04-07T02:38:04Z,,,Other
+ImageMagick/ImageMagick,https://github.com/ImageMagick/ImageMagick/discussions/2005,Compiling portable 6.9.8-10-Q8 issues,2005,Unanswered,2020-05-11T14:36:31Z,,,Errors
+laravel/framework,https://github.com/laravel/framework/discussions/33262,/api/user 401 (Unauthorized),33262,Unanswered,2020-06-18T10:40:25Z,,,Errors
+vercel/vercel,https://github.com/vercel/vercel/discussions/4862,Allow using a non-default branch as the production environment,4862,Answered,2020-07-15T21:23:59Z,🤔,Ideas,Discrepancy
+livewire/livewire,https://github.com/livewire/livewire/discussions/1129,nginx and file-preview config,1129,Unanswered,2020-06-19T05:55:12Z,,,Review
+meilisearch/MeiliSearch,https://github.com/meilisearch/MeiliSearch/discussions/620,Unable to install with apt on Ubuntu,620,Unanswered,2020-04-22T06:50:43Z,,,Errors
+vercel/next.js,https://github.com/vercel/next.js/discussions/14796,Bug: Cannot redefine property - but it's only included once in the source...,14796,Unanswered,2020-07-02T12:04:32Z,🙏,Help,Errors
+vercel/next.js,https://github.com/vercel/next.js/discussions/12940,CSS is applied after page is rendered.,12940,Unanswered,2020-05-15T16:40:49Z,🙏,Help,Review
+vercel/next.js,https://github.com/vercel/next.js/discussions/11056,"Tutorial, getInitialProps, and HOC",11056,Unanswered,2020-03-13T16:27:27Z,,,Errors
+dotnet/aspnetcore,https://github.com/dotnet/aspnetcore/discussions/23918,LocalChannel for WebApi,23918,Unanswered,2020-07-14T05:38:26Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/14532,How to serve NextJS static files through custom Express server?,14532,Answered,2020-06-24T15:53:33Z,🙏,Help,Review
+vercel/next.js,https://github.com/vercel/next.js/discussions/14306,Going back without refetching data,14306,Unanswered,2020-06-18T07:59:09Z,🙏,Help,Review
+goreleaser/goreleaser,https://github.com/goreleaser/goreleaser/discussions/1609,How to enable debug logs ?,1609,Answered,2020-06-15T06:35:02Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/12654,No loader for images?,12654,Unanswered,2020-05-09T00:05:18Z,,,Errors
+vercel/next.js,https://github.com/vercel/next.js/discussions/10675,Does Next.js support pm2 cluster mode?,10675,Answered,2020-02-25T01:30:06Z,,,Errors
+starship/starship,https://github.com/starship/starship/discussions/1454,"Is it possible to remove the ""on"", ""via"", ""took"" words from the prompt?",1454,Answered,2020-07-08T07:39:02Z,🙏,Help,Discrepancy
+tailwindcss/tailwindcss,https://github.com/tailwindcss/tailwindcss/discussions/1611,How do I override the base font size?,1611,Answered,2020-04-23T22:56:54Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/14831,Need help extending GetServerSideProps interface,14831,Unanswered,2020-07-03T20:55:50Z,🙏,Help,Errors
+strapi/strapi,https://github.com/strapi/strapi/discussions/6840,Can you populate relation in component?,6840,Unanswered,2020-06-28T11:13:18Z,,,Discrepancy
+dotansimha/graphql-code-generator,https://github.com/dotansimha/graphql-code-generator/discussions/4052,Possible to set explicit return types on generated hooks with typescript-react-apollo?,4052,Answered,2020-05-19T23:59:58Z,,,Review
+vercel/next.js,https://github.com/vercel/next.js/discussions/10708,"For SSA of an e-commerce application, what is the need of Nextjs?",10708,Unanswered,2020-02-26T17:43:01Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/12135,Production Deployment Package,12135,Unanswered,2020-04-23T12:56:02Z,,,Discrepancy
+linkerd/linkerd2,https://github.com/linkerd/linkerd2/discussions/4492,Linkerd2 and GitOps,4492,Answered,2020-05-27T21:05:53Z,,,Discrepancy
+storybookjs/storybook,https://github.com/storybookjs/storybook/discussions/11119,Command to check Storybook coverage of components?,11119,Answered,2020-06-10T15:45:20Z,🤔,Ideas,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/13438,Is there any good resource which explain how next really works internally?,13438,Unanswered,2020-05-27T11:48:10Z,🙏,Help,Learning
+nlohmann/json,https://github.com/nlohmann/json/discussions/2290,Can we add more customization points?,2290,Unanswered,2020-07-19T02:57:08Z,🤔,Ideas,Review
+vercel/next.js,https://github.com/vercel/next.js/discussions/10977,Pass additional data from getStaticPaths to getStaticProps,10977,Unanswered,2020-03-11T15:38:03Z,,,Review
+vercel/next.js,https://github.com/vercel/next.js/discussions/10714,Dynamic route for index.js,10714,Unanswered,2020-02-27T02:13:31Z,,,Discrepancy
+goreleaser/goreleaser,https://github.com/goreleaser/goreleaser/discussions/1630,Replace Tilde(~) in NFPMS version with exact git tag,1630,Answered,2020-06-29T18:24:15Z,,,Discrepancy
+tannerlinsley/react-table,https://github.com/tannerlinsley/react-table/discussions/2106,useGroupBy : Can group by Object field?,2106,Unanswered,2020-04-06T09:44:51Z,,,Review
+apollographql/apollo-client,https://github.com/apollographql/apollo-client/discussions/6491,Local Storage confusion,6491,Unanswered,2020-06-25T13:59:27Z,,,Review
+vercel/next.js,https://github.com/vercel/next.js/discussions/14164,getServerSideProps always returns empty object as props to Page component,14164,Unanswered,2020-06-14T11:24:27Z,🙏,Help,Review
+ImageMagick/ImageMagick,https://github.com/ImageMagick/ImageMagick/discussions/2218,convert all gifs in folder,2218,Answered,2020-06-30T07:55:18Z,🙏,Help,Discrepancy
+vercel/vercel,https://github.com/vercel/vercel/discussions/4382,Memory Config,4382,Answered,2020-05-14T16:11:02Z,,,Discrepancy
+strapi/strapi,https://github.com/strapi/strapi/discussions/5888,How to allow users to request /users/me when they're not confirmed yet,5888,Answered,2020-04-20T18:59:43Z,,,Discrepancy
+prisma/prisma,https://github.com/prisma/prisma/discussions/3002,Deployment of Next.js Prisma to Vercel - 500,3002,Answered,2020-07-12T18:51:34Z,🙏,Help,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/14392,Storing keys without exposing them,14392,Answered,2020-06-20T21:31:42Z,🙏,Help,Discrepancy
+eclipse-theia/theia,https://github.com/eclipse-theia/theia/discussions/8200,How do I get express service port information in the backend service or node environment?,8200,Unanswered,2020-07-20T11:38:45Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/14822,Why is Dynamic Link Variable not interpolated on Link => getServerSideProps,14822,Answered,2020-07-03T15:17:19Z,🙏,Help,Review
+tailwindcss/tailwindcss,https://github.com/tailwindcss/tailwindcss/discussions/2049,JS API for using `@apply` in Plugins,2049,Unanswered,2020-07-20T19:02:00Z,🤔,Ideas,Conceptual
+vercel/vercel,https://github.com/vercel/vercel/discussions/4648,I am getting a TypeError error,4648,Unanswered,2020-06-13T10:00:47Z,🙏,Help,Errors
+tannerlinsley/react-table,https://github.com/tannerlinsley/react-table/discussions/2373,Using global filters on non-hidden columns only,2373,Unanswered,2020-05-26T21:16:48Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/14215,Serverless custom server API?,14215,Unanswered,2020-06-16T08:59:07Z,🙏,Help,Plans
+apollographql/apollo-client,https://github.com/apollographql/apollo-client/discussions/6569,How to prevent GraphQL errors from crashing the whole app?,6569,Unanswered,2020-07-10T05:12:48Z,,,Errors
+blitz-js/blitz,https://github.com/blitz-js/blitz/discussions/771,Support for reactive apps today,771,Answered,2020-07-20T01:24:40Z,#️⃣,General,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/11738,Return a custom property to getStaticProps with getStaticPaths,11738,Unanswered,2020-04-07T20:05:47Z,,,Review
+vercel/vercel,https://github.com/vercel/vercel/discussions/4713,Keep a cached mongoose connection with serverless functions,4713,Answered,2020-06-24T21:20:26Z,🙏,Help,Review
+vercel/vercel,https://github.com/vercel/vercel/discussions/4458,Thanks,4458,Answered,2020-05-22T13:58:54Z,💖,Thanks,Other
+vercel/next.js,https://github.com/vercel/next.js/discussions/13244,When the user does not have the cached page and is offline,13244,Unanswered,2020-05-22T18:09:03Z,🙏,Help,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/15184,getStaticPaths always returns undefined.,15184,Unanswered,2020-07-15T12:30:40Z,🙏,Help,Errors
+react-hook-form/react-hook-form,https://github.com/react-hook-form/react-hook-form/discussions/1867,want to bind form values into another component on every field change,1867,Answered,2020-06-14T15:41:42Z,🙏,Help,Review
+vercel/next.js,https://github.com/vercel/next.js/discussions/13700,how to deploy a SSG+SSR hybrid site on Google App Engine/own server ?,13700,Unanswered,2020-06-03T06:16:21Z,🙏,Help,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/12464,Unable to create build if ./public folder size increases up to 20 GB,12464,Unanswered,2020-05-04T06:28:46Z,,,Errors
+ImageMagick/ImageMagick,https://github.com/ImageMagick/ImageMagick/discussions/1971,Use grayscale image as semi-transparent mask,1971,Answered,2020-05-02T11:55:28Z,,,Discrepancy
+ImageMagick/ImageMagick,https://github.com/ImageMagick/ImageMagick/discussions/1996,Why do I lose EXIF ​​meta information after LZW compression of TIFF files,1996,Answered,2020-05-07T09:10:52Z,,,Discrepancy
+containrrr/watchtower,https://github.com/containrrr/watchtower/discussions/569,Using Watchtower with github packages,569,Answered,2020-06-04T17:38:03Z,🙏,Help,Discrepancy
+tannerlinsley/react-query,https://github.com/tannerlinsley/react-query/discussions/758,Can I force all listeners to immediately rerender after calling queryCache.setQueryData()?,758,Answered,2020-07-15T21:01:57Z,,,Discrepancy
+vercel/vercel,https://github.com/vercel/vercel/discussions/4335,Two-way proxy loop,4335,Answered,2020-05-11T15:45:23Z,,,Review
+BurntSushi/ripgrep,https://github.com/BurntSushi/ripgrep/discussions/1633,How to use `Searcher` to find exact portions of a byte match.,1633,Answered,2020-07-03T02:00:36Z,,,Usage
+prisma/prisma,https://github.com/prisma/prisma/discussions/2707,TypeScript Autocomplete Configuration - NexusContext definition,2707,Unanswered,2020-06-10T05:49:52Z,🙏,Help,Review
+tannerlinsley/react-table,https://github.com/tannerlinsley/react-table/discussions/2477,How can I add custom properties to row and cell?,2477,Unanswered,2020-06-27T12:51:21Z,,,Review
+livewire/livewire,https://github.com/livewire/livewire/discussions/1260,Troubleshooting : malicious users,1260,Unanswered,2020-07-12T07:43:00Z,,,404
+alpinejs/alpine,https://github.com/alpinejs/alpine/discussions/484,search multiple keys (alpine toolbox example),484,Unanswered,2020-05-13T14:32:41Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/15130,Execute code in getServerSideProps only once at first visit?,15130,Answered,2020-07-13T15:16:25Z,🙏,Help,Discrepancy
+adonisjs/core,https://github.com/adonisjs/core/discussions/1258,firstOrFail returning a plain object instead of Model instance,1258,Unanswered,2020-07-17T07:48:29Z,🙏,Help,Errors
+vercel/next.js,https://github.com/vercel/next.js/discussions/14455,Example of Next.js with Okta Auth,14455,Unanswered,2020-06-22T16:41:58Z,🙏,Help,Learning
+react-spring/react-spring,https://github.com/react-spring/react-spring/discussions/969,useTransition does not fully complete when the main thread is overloaded,969,Unanswered,2020-04-27T20:56:29Z,,,Review
+meilisearch/MeiliSearch,https://github.com/meilisearch/MeiliSearch/discussions/855,Improving queue processing speed,855,Unanswered,2020-07-14T15:09:46Z,,,Conceptual
+react-hook-form/react-hook-form,https://github.com/react-hook-form/react-hook-form/discussions/2281,formState.isValid is false after reset is called with values provided,2281,Unanswered,2020-07-19T17:45:13Z,🙏,Help,Review
+vercel/next.js,https://github.com/vercel/next.js/discussions/14385,"What exactly does ""next start"" do (and need to work)?",14385,Unanswered,2020-06-20T10:39:21Z,#️⃣,General,Learning
+vercel/swr,https://github.com/vercel/swr/discussions/502,Only update when the component is visible?,502,Answered,2020-07-04T14:42:46Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/14514,TypeScript build for production,14514,Unanswered,2020-06-24T00:00:43Z,🙏,Help,Discrepancy
+strapi/strapi,https://github.com/strapi/strapi/discussions/6549,How to use Azure ADB2C authentication with Strapi?,6549,Unanswered,2020-06-04T12:23:37Z,,,Discrepancy
+tannerlinsley/react-query,https://github.com/tannerlinsley/react-query/discussions/777,Is it possible to distinguish between a fetch and a refetch?,777,Unanswered,2020-07-17T18:55:18Z,,,404
+tailwindcss/tailwindcss,https://github.com/tailwindcss/tailwindcss/discussions/1634,How do we add general sibling selector?,1634,Answered,2020-04-27T12:09:05Z,,,Review
+vercel/next.js,https://github.com/vercel/next.js/discussions/11080,Image pre-processing with SSG,11080,Unanswered,2020-03-15T07:12:49Z,,,Information
+vercel/next.js,https://github.com/vercel/next.js/discussions/11185,Is top level await supported?,11185,Answered,2020-03-18T20:07:25Z,,,Discrepancy
+react-hook-form/react-hook-form,https://github.com/react-hook-form/react-hook-form/discussions/1877,Replace whole array data in useFieldArray,1877,Answered,2020-06-16T05:58:17Z,🙏,Help,Review
+nlohmann/json,https://github.com/nlohmann/json/discussions/2260,Creating instances of opaque types from `.json` file data,2260,Answered,2020-07-11T17:56:36Z,🙏,Help,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/12255,dynamic page in root of pages directory,12255,Answered,2020-04-27T19:20:24Z,,,Discrepancy
+strapi/strapi,https://github.com/strapi/strapi/discussions/7040,Strapi for e-Commerce,7040,Unanswered,2020-07-16T15:32:21Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/13478,with-typescript-eslint-jest example doesn't detect format/lint issues,13478,Unanswered,2020-05-28T03:34:04Z,🙏,Help,Review
+prisma/prisma,https://github.com/prisma/prisma/discussions/2287,`ELF: not found` when running prisma cli,2287,Answered,2020-04-23T16:10:31Z,,,Errors
+vercel/next.js,https://github.com/vercel/next.js/discussions/11187,"Implementing /app/[slug]/dashboard, /app/[slug]/settings in an app",11187,Answered,2020-03-18T20:52:30Z,,,Discrepancy
+tannerlinsley/react-table,https://github.com/tannerlinsley/react-table/discussions/2194,Determine clicked column in row onClick handler,2194,Answered,2020-04-17T23:56:18Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/10924,Scss variables in custom webpack configuration,10924,Unanswered,2020-03-10T07:44:22Z,,,Review
+vercel/next.js,https://github.com/vercel/next.js/discussions/11607,Yarn 2 not working with basic setup,11607,Unanswered,2020-04-02T18:16:00Z,,,Review
+strapi/strapi,https://github.com/strapi/strapi/discussions/7037,Documentation for install a third library like material-ui,7037,Answered,2020-07-16T14:28:13Z,,,Usage
+tannerlinsley/react-table,https://github.com/tannerlinsley/react-table/discussions/2399,usePagination not applying pagination - code same as example,2399,Answered,2020-06-02T09:20:13Z,,,Errors
+react-hook-form/react-hook-form,https://github.com/react-hook-form/react-hook-form/discussions/1884,Is there is a way to unregister through Controller,1884,Answered,2020-06-16T18:10:46Z,🙏,Help,Review
+vercel/vercel,https://github.com/vercel/vercel/discussions/3991,Linking is a bit of a bummer,3991,Answered,2020-04-01T16:26:14Z,,,Other
+apollographql/apollo-client,https://github.com/apollographql/apollo-client/discussions/6196,Getting Erro from Apollo Server,6196,Unanswered,2020-04-26T03:24:35Z,,,Errors
+keystonejs/keystone,https://github.com/keystonejs/keystone/discussions/3021,[Feature Request] [New Field] Reactions,3021,Unanswered,2020-05-22T11:50:35Z,,,Conceptual
+beakerbrowser/beaker,https://github.com/beakerbrowser/beaker/discussions/1552,Default Working Directory,1552,Answered,2020-05-13T03:26:29Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/13555,Restricted routes verify with getInitialProps and from client side with proxy /api,13555,Unanswered,2020-05-29T15:30:45Z,🙏,Help,Review
+vercel/next.js,https://github.com/vercel/next.js/discussions/12337,how to forward statusCode from axios request to nextjs,12337,Answered,2020-04-30T05:26:56Z,,,Review
+twbs/bootstrap,https://github.com/twbs/bootstrap/discussions/31030,Hows it coming along?,31030,Answered,2020-06-14T13:14:47Z,,,Plans
+tailwindcss/tailwindcss,https://github.com/tailwindcss/tailwindcss/discussions/1835,Laravel mix does not work with tailwind css,1835,Answered,2020-05-27T16:20:48Z,🙏,Help,Errors
+vercel/next.js,https://github.com/vercel/next.js/discussions/13783,NextJs + Vercel Buils using getStaticProps and Accents,13783,Unanswered,2020-06-05T00:29:02Z,🙏,Help,Errors
+vercel/vercel,https://github.com/vercel/vercel/discussions/3950,Subdomain per Organization,3950,Answered,2020-03-22T20:32:00Z,,,Discrepancy
+tailwindcss/tailwindcss,https://github.com/tailwindcss/tailwindcss/discussions/1521,When Safari vertical scrollbar appears the breakpoint changes,1521,Unanswered,2020-04-02T18:46:26Z,,,Errors
+vercel/next.js,https://github.com/vercel/next.js/discussions/15180,NGINX Cache VS SSG,15180,Unanswered,2020-07-15T10:41:45Z,#️⃣,General,Review
+vercel/next.js,https://github.com/vercel/next.js/discussions/12544,Persisting session with client-side routing,12544,Unanswered,2020-05-06T03:36:34Z,,,Errors
+dotnet/aspnetcore,https://github.com/dotnet/aspnetcore/discussions/22671,"How can I get user claims from external authentication providers? (eg: Facebook, Google, MSAccount)",22671,Unanswered,2020-06-08T19:08:07Z,,,404
+react-hook-form/react-hook-form,https://github.com/react-hook-form/react-hook-form/discussions/2188,Value is not registering in custom react select component,2188,Answered,2020-07-13T10:52:06Z,🙏,Help,Errors
+vercel/next.js,https://github.com/vercel/next.js/discussions/13938,Invalid Build File Hash(2d42819b986650054a3b79b027287803) for chunk: app.js,13938,Answered,2020-06-09T11:33:56Z,🙏,Help,Errors
+strapi/strapi,https://github.com/strapi/strapi/discussions/6466,SQL query for create|update database structure,6466,Unanswered,2020-05-31T01:19:19Z,,,Discrepancy
+ImageMagick/ImageMagick,https://github.com/ImageMagick/ImageMagick/discussions/2058,Extract sprites/images from a bigger image,2058,Unanswered,2020-05-22T17:05:36Z,🙏,Help,Discrepancy
+tannerlinsley/react-table,https://github.com/tannerlinsley/react-table/discussions/2155,get access to selected row data from outside table component,2155,Unanswered,2020-04-14T05:32:43Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/11491,Passing server-sided data with custom server to page,11491,Unanswered,2020-03-30T13:05:48Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/11183,app_.getInitialProps with page getServersideProps,11183,Unanswered,2020-03-18T19:54:42Z,,,Review
+parcel-bundler/parcel,https://github.com/parcel-bundler/parcel/discussions/4893,Default Config Error when Extending,4893,Answered,2020-07-15T13:22:25Z,,,Errors
+laravel/framework,https://github.com/laravel/framework/discussions/32886,WhereConcat to concatenate multiple columns,32886,Unanswered,2020-05-19T10:31:48Z,,,Conceptual
+dotnet/aspnetcore,https://github.com/dotnet/aspnetcore/discussions/22098,How can Blazor feel less like Silverlight and Web Forms and more like a tool for people who are comfortable with the web?,22098,Unanswered,2020-05-21T20:19:25Z,,,Conceptual
+apollographql/apollo-client,https://github.com/apollographql/apollo-client/discussions/6522,Is there an Angular - Android example?,6522,Answered,2020-07-01T14:09:45Z,,,Learning
+react-spring/react-spring,https://github.com/react-spring/react-spring/discussions/990,useTransition: TypeError: Cannot read property 'ref' of null,990,Answered,2020-05-07T10:17:05Z,,,Errors
+vercel/next.js,https://github.com/vercel/next.js/discussions/13828,Solve the problem of SyntaxError: Invalid or unexpected token,13828,Unanswered,2020-06-06T00:43:06Z,🤔,Ideas,Errors
+vercel/next.js,https://github.com/vercel/next.js/discussions/13457,Bug in Querying mongoDB in getStaticProps ?,13457,Unanswered,2020-05-27T17:34:59Z,🙏,Help,Errors
+vercel/next.js,https://github.com/vercel/next.js/discussions/12799,How can I use Https in dev without losing Nextjs goodies,12799,Answered,2020-05-12T16:39:02Z,,,Review
+tannerlinsley/react-table,https://github.com/tannerlinsley/react-table/discussions/2074,Custom component for parent of nested header cells?,2074,Unanswered,2020-03-31T15:41:19Z,,,Errors
+dotansimha/graphql-code-generator,https://github.com/dotansimha/graphql-code-generator/discussions/4311,Schema Definition with custom scalars from AWS Amplify,4311,Answered,2020-07-01T09:39:19Z,,,Review
+tannerlinsley/react-query,https://github.com/tannerlinsley/react-query/discussions/423,Unable to get latest data on refetch,423,Answered,2020-04-29T17:04:07Z,,,Review
+prisma/prisma,https://github.com/prisma/prisma/discussions/2159,exclude column form selection (Hidden Columns) `@select(false)`,2159,Unanswered,2020-04-10T10:46:26Z,,,Review
+prisma/prisma,https://github.com/prisma/prisma/discussions/2103,How to configure with Webpack?,2103,Answered,2020-04-05T19:57:14Z,,,Discrepancy
+react-hook-form/react-hook-form,https://github.com/react-hook-form/react-hook-form/discussions/2291,React Hook form is not working with react-dates Airbnb,2291,Unanswered,2020-07-20T13:56:26Z,🙏,Help,Discrepancy
+meilisearch/MeiliSearch,https://github.com/meilisearch/MeiliSearch/discussions/622,What are you building?,622,Unanswered,2020-04-22T08:22:34Z,,,Conceptual
+vercel/swr,https://github.com/vercel/swr/discussions/497,SWR options don't seem to work with a helper function?,497,Answered,2020-07-01T22:07:40Z,,,Review
+prisma/prisma,https://github.com/prisma/prisma/discussions/2583,Who designed the Prisma.io website?,2583,Answered,2020-05-27T21:06:34Z,#️⃣,General,Recruitment
+laravel/framework,https://github.com/laravel/framework/discussions/32779,`app()->terminating()` not (always) called with `queue:work`,32779,Unanswered,2020-05-12T13:17:10Z,,,Errors
+tannerlinsley/react-query,https://github.com/tannerlinsley/react-query/discussions/646,Testing React Query + Container Pattern,646,Answered,2020-06-27T23:00:41Z,,,Discrepancy
+prisma/prisma,https://github.com/prisma/prisma/discussions/2912,Using Apollo client with Angular on Android,2912,Answered,2020-07-01T18:13:06Z,🙏,Help,Learning
+eclipse-theia/theia,https://github.com/eclipse-theia/theia/discussions/7966,Default Theme set in package.json is not picked up on first load.,7966,Unanswered,2020-06-04T16:23:50Z,,,Errors
+laravel/framework,https://github.com/laravel/framework/discussions/33470,Different integer types for foreignId method,33470,Unanswered,2020-07-08T11:02:00Z,,,Conceptual
+goreleaser/goreleaser,https://github.com/goreleaser/goreleaser/discussions/1682,Is my automation (using https://github.com/upcmd/up) achieving the exact same thing as goreleaser?,1682,Answered,2020-07-18T12:50:37Z,,,Conceptual
+prisma/prisma,https://github.com/prisma/prisma/discussions/3075,Connecting to Google Cloud Mysql using SSL,3075,Unanswered,2020-07-18T20:34:04Z,,,Discrepancy
+slatedocs/slate,https://github.com/slatedocs/slate/discussions/1289,Set http prefix path,1289,Unanswered,2020-07-21T14:23:20Z,,,Discrepancy
+keystonejs/keystone,https://github.com/keystonejs/keystone/discussions/3148,Can you filter the DateTime field for null/undefined/not set?,3148,Unanswered,2020-06-13T21:19:34Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/12868,Tailwindcss with SSR,12868,Unanswered,2020-05-14T11:48:23Z,,,Discrepancy
+vercel/vercel,https://github.com/vercel/vercel/discussions/4569,HTTP/2?,4569,Answered,2020-06-03T21:18:34Z,🙏,Help,Discrepancy
+spatie/laravel-medialibrary,https://github.com/spatie/laravel-medialibrary/discussions/1941,no data get,1941,Unanswered,2020-06-26T17:41:10Z,🙏,Help,Errors
+facebook/create-react-app,https://github.com/facebook/create-react-app/discussions/9295,"After writing ""cd udemy- course"". It appears that ""ls"" is not recognized as a command",9295,Unanswered,2020-07-12T16:47:46Z,🙏,Help,Discrepancy
+SixLabors/ImageSharp,https://github.com/SixLabors/ImageSharp/discussions/1222,Implicit constructors with value tuples,1222,Unanswered,2020-06-10T07:43:30Z,🤔,Ideas,Conceptual
+clap-rs/clap,https://github.com/clap-rs/clap/discussions/1945,Testing complex command structures without repeating App construction,1945,Answered,2020-05-27T01:59:25Z,,,Review
+vercel/next.js,https://github.com/vercel/next.js/discussions/11588,"About SSR, SSG, iSSG, please correct me if I'm wrong.",11588,Unanswered,2020-04-02T06:47:32Z,,,Discrepancy
+keystonejs/keystone,https://github.com/keystonejs/keystone/discussions/3027,UI Hooks naming finalisation,3027,Answered,2020-05-23T00:24:24Z,,,Conceptual
+livewire/livewire,https://github.com/livewire/livewire/discussions/1172,Q: Possible to use Livewire inside of Laravel Nova,1172,Unanswered,2020-06-27T21:31:44Z,,,Discrepancy
+ionic-team/capacitor,https://github.com/ionic-team/capacitor/discussions/3211,Why does Capacitor choose to run the app on a localhost server instead of just from the filesystem.,3211,Answered,2020-07-06T13:15:32Z,#️⃣,General,Discrepancy
+SixLabors/ImageSharp,https://github.com/SixLabors/ImageSharp/discussions/1263,GetPixelSpan is removed without any release note?,1263,Answered,2020-07-08T13:27:30Z,🙏,Help,Versions
+vercel/next.js,https://github.com/vercel/next.js/discussions/13744,next.js renders blank page or partially rendered page,13744,Unanswered,2020-06-04T05:19:56Z,🙏,Help,Errors
+parcel-bundler/parcel,https://github.com/parcel-bundler/parcel/discussions/4679,What is the recommended way to have a node module added to the bundle WITHOUT it being processed?,4679,Unanswered,2020-06-02T10:10:42Z,,,Discrepancy
+keystonejs/keystone,https://github.com/keystonejs/keystone/discussions/3258,Mongoose Query Optimizations,3258,Unanswered,2020-07-19T14:50:59Z,,,Review
+tannerlinsley/react-query,https://github.com/tannerlinsley/react-query/discussions/667,Discord invite is out of date,667,Answered,2020-06-29T23:52:42Z,,,Errors
+prisma/prisma,https://github.com/prisma/prisma/discussions/2610,"""The change you are trying to make would violate the required relation"" when trying to delete parent in explicit M2M, but able to delete with raw SQL",2610,Answered,2020-05-30T19:12:29Z,🙏,Help,Errors
+tailwindcss/tailwindcss,https://github.com/tailwindcss/tailwindcss/discussions/1899,Is there a Bootstrap 4 palette?,1899,Unanswered,2020-06-08T18:11:33Z,#️⃣,General,Learning
+ImageMagick/ImageMagick,https://github.com/ImageMagick/ImageMagick/discussions/2067,Magick.pm,2067,Unanswered,2020-05-26T04:49:53Z,🙏,Help,Errors
+directus/directus,https://github.com/directus/directus/discussions/2763,Question: mount config in s3,2763,Unanswered,2020-06-23T02:11:14Z,,,Errors
+ImageMagick/ImageMagick,https://github.com/ImageMagick/ImageMagick/discussions/1960,Replace Trimmed Area,1960,Answered,2020-04-30T03:33:28Z,,,Discrepancy
+ImageMagick/ImageMagick,https://github.com/ImageMagick/ImageMagick/discussions/2011,Version 7.0 takes longer than version 6.0 and has lower quality,2011,Unanswered,2020-05-13T00:43:45Z,,,Versions
+tannerlinsley/react-table,https://github.com/tannerlinsley/react-table/discussions/2478,How can I loop ascending and descending only two states when clicking sortable column?,2478,Answered,2020-06-28T14:51:59Z,,,Discrepancy
+tannerlinsley/react-table,https://github.com/tannerlinsley/react-table/discussions/2034,Dynamically update row values,2034,Unanswered,2020-03-21T18:19:03Z,,,Discrepancy
+tannerlinsley/react-query,https://github.com/tannerlinsley/react-query/discussions/668,Should I create a PR to demonstrate a break in backward compatibility?,668,Answered,2020-06-30T00:06:43Z,,,Errors
+babel/babel,https://github.com/babel/babel/discussions/11719,Auto-update corejs in env preset?,11719,Answered,2020-06-14T11:47:15Z,🙏,Help,Discrepancy
+react-hook-form/react-hook-form,https://github.com/react-hook-form/react-hook-form/discussions/1977,How to change other input value properly,1977,Answered,2020-06-27T10:52:12Z,🙏,Help,Discrepancy
+laravel/framework,https://github.com/laravel/framework/discussions/33049,SqlServerGrammar datetime2 type for datetime column in migrations,33049,Unanswered,2020-06-01T12:48:16Z,,,Errors
+strapi/strapi,https://github.com/strapi/strapi/discussions/6648,Get currently logged in admin's username,6648,Unanswered,2020-06-12T09:08:41Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/14384,Is there a way to refresh static files without server restart?,14384,Unanswered,2020-06-20T09:47:01Z,🙏,Help,Errors
+laravel/framework,https://github.com/laravel/framework/discussions/33017,Wrong blade indentation,33017,Answered,2020-05-29T14:25:06Z,,,Conceptual
+strapi/strapi,https://github.com/strapi/strapi/discussions/6813,How to implement subcategories?,6813,Answered,2020-06-25T18:21:45Z,,,Discrepancy
+strapi/strapi,https://github.com/strapi/strapi/discussions/6341,Mongo Model with objects ?,6341,Answered,2020-05-25T11:48:01Z,,,Discrepancy
+beakerbrowser/beaker,https://github.com/beakerbrowser/beaker/discussions/1686,"[newbie] ""Offline/watercooler"" data sharing mode?",1686,Unanswered,2020-05-27T22:10:17Z,,,Discrepancy
+PrefectHQ/prefect,https://github.com/PrefectHQ/prefect/discussions/3003,Docker Tasks could be more generic to support all API methods.,3003,Answered,2020-07-20T17:31:50Z,🤔,Ideas,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/13497,Globally access nextjs req,13497,Unanswered,2020-05-28T14:09:08Z,🙏,Help,Review
+vercel/next.js,https://github.com/vercel/next.js/discussions/11873,getServerSideProps props empty object,11873,Unanswered,2020-04-14T06:25:50Z,,,Review
+BurntSushi/ripgrep,https://github.com/BurntSushi/ripgrep/discussions/1582,PDF feature,1582,Answered,2020-05-13T18:53:19Z,,,Discrepancy
+tailwindcss/tailwindcss,https://github.com/tailwindcss/tailwindcss/discussions/1904,Project Setup and Linking To Tailwind.css Questions,1904,Answered,2020-06-09T17:52:57Z,🙏,Help,Discrepancy
+aws-amplify/amplify-js,https://github.com/aws-amplify/amplify-js/discussions/5802,Changing defaultCountryCode,5802,Unanswered,2020-05-16T06:32:23Z,,,Review
+vercel/vercel,https://github.com/vercel/vercel/discussions/4252,"Domain not accessible when entering it in with ""www.""",4252,Answered,2020-05-04T09:41:15Z,,,Errors
+vercel/vercel,https://github.com/vercel/vercel/discussions/4061,Custom deployment,4061,Unanswered,2020-04-13T23:29:19Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/12913,Considerations regarding the `pages/_error` page when using SSG or hybrid SSG/R apps,12913,Unanswered,2020-05-15T11:00:43Z,🙏,Help,Review
+tailwindcss/tailwindcss,https://github.com/tailwindcss/tailwindcss/discussions/1471,Page refreshing is slowing me down,1471,Unanswered,2020-03-21T15:19:06Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/11640,How to make next.js cancel long running processes,11640,Unanswered,2020-04-03T18:44:22Z,,,Discrepancy
+davidkpiano/xstate,https://github.com/davidkpiano/xstate/discussions/1292,How to plug external services into a state machine?,1292,Unanswered,2020-07-08T11:45:12Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/14323,Localstoarge Authentication Dynamic Component,14323,Unanswered,2020-06-18T15:06:07Z,🙏,Help,Review
+vercel/next.js,https://github.com/vercel/next.js/discussions/12377,eslint-loader not respecting .eslintrc.js file,12377,Unanswered,2020-05-01T09:28:08Z,,,Review
+laravel/framework,https://github.com/laravel/framework/discussions/32882,Do we have a plan to solve the 2038 problem?,32882,Unanswered,2020-05-19T03:57:04Z,,,Plans
+tannerlinsley/react-table,https://github.com/tannerlinsley/react-table/discussions/2149,Support array of strings globalFilter,2149,Unanswered,2020-04-13T13:17:12Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/10763,Homepage rewrite,10763,Unanswered,2020-03-01T00:58:06Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/12682,"Handling redirects in NextJS, can it be done from _app.tsx?",12682,Unanswered,2020-05-10T15:27:52Z,,,Review
+vercel/next.js,https://github.com/vercel/next.js/discussions/12276,Dynamic routing with custom server,12276,Unanswered,2020-04-28T11:29:56Z,,,Errors
+tailwindcss/tailwindcss,https://github.com/tailwindcss/tailwindcss/discussions/1877,Datepicker Issue,1877,Unanswered,2020-06-03T07:33:10Z,🙏,Help,Discrepancy
+strapi/strapi,https://github.com/strapi/strapi/discussions/5849,"How to access ""data"" object in ContentManager",5849,Unanswered,2020-04-17T11:03:02Z,,,Discrepancy
+vercel/vercel,https://github.com/vercel/vercel/discussions/4674,AWS Amplify robot.txt errors lighthouse audit,4674,Answered,2020-06-17T18:10:21Z,🙏,Help,Errors
+dotansimha/graphql-code-generator,https://github.com/dotansimha/graphql-code-generator/discussions/4067,Generate DocumentNode for the schema when building servers,4067,Answered,2020-05-22T20:19:45Z,,,Discrepancy
+vercel/vercel,https://github.com/vercel/vercel/discussions/4482,How do I configure Now to ignore the Gemfile and not install gems?,4482,Answered,2020-05-25T17:07:37Z,🙏,Help,Discrepancy
+vercel/vercel,https://github.com/vercel/vercel/discussions/4176,Zeit is now vercel,4176,Answered,2020-04-28T04:58:06Z,,,Plans
+vercel/next.js,https://github.com/vercel/next.js/discussions/13982,Wordpress CMS example preview mode,13982,Unanswered,2020-06-09T22:05:31Z,#️⃣,General,Discrepancy
+vercel/vercel,https://github.com/vercel/vercel/discussions/4720,What makes the Vercel platform not the ideal choice for a REST/GraphQL API?,4720,Unanswered,2020-06-25T11:49:38Z,#️⃣,General,Conceptual
+vercel/next.js,https://github.com/vercel/next.js/discussions/13025,"Sass and CSS Modules, first render not showing.",13025,Unanswered,2020-05-18T01:20:10Z,🙏,Help,Errors
+alpinejs/alpine,https://github.com/alpinejs/alpine/discussions/544,SSR Example,544,Answered,2020-06-02T20:39:56Z,,,Learning
+tannerlinsley/react-table,https://github.com/tannerlinsley/react-table/discussions/2075,Populating table with JSON,2075,Unanswered,2020-03-31T19:22:35Z,,,Discrepancy
+tannerlinsley/react-query,https://github.com/tannerlinsley/react-query/discussions/269,can useIsFetching return loading status of non-get reqeusts,269,Unanswered,2020-03-20T18:10:39Z,,,Discrepancy
+strapi/strapi,https://github.com/strapi/strapi/discussions/6067,Getting errors with nginx proxy_pass on Digital Ocean,6067,Answered,2020-05-05T10:26:05Z,,,Errors
+strapi/strapi,https://github.com/strapi/strapi/discussions/6677,Can strapi be added to already created Next.js project?,6677,Unanswered,2020-06-15T10:04:20Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/13787,network error when attempting to fetch resource. in Next 9.0.6,13787,Answered,2020-06-05T00:57:35Z,🙏,Help,Errors
+vercel/next.js,https://github.com/vercel/next.js/discussions/12628,"Express VS Next in a serverless function, PROS & CONS",12628,Unanswered,2020-05-08T06:35:04Z,,,Review
+tailwindcss/tailwindcss,https://github.com/tailwindcss/tailwindcss/discussions/2022,Add `word-break: break-word` to wordBreak core plugin,2022,Answered,2020-07-13T19:44:55Z,🤔,Ideas,Conceptual
+strapi/strapi,https://github.com/strapi/strapi/discussions/6374,strapi.components is not loading in bootstrap.js (neither strapi.models),6374,Answered,2020-05-27T08:47:04Z,,,Errors
+starship/starship,https://github.com/starship/starship/discussions/1168,Missing some powerline font symbols,1168,Answered,2020-05-04T11:31:53Z,,,Errors
+prisma/prisma,https://github.com/prisma/prisma/discussions/2427,Support for MSSQL,2427,Unanswered,2020-05-13T00:12:26Z,,,Discrepancy
+davidkpiano/xstate,https://github.com/davidkpiano/xstate/discussions/1308,Is it possible to configure nested services?,1308,Answered,2020-07-16T01:03:39Z,,,Review
+vercel/vercel,https://github.com/vercel/vercel/discussions/4885,How to serve a static blog along with a next.js app ( previously using express),4885,Unanswered,2020-07-19T10:11:19Z,🙏,Help,Errors
+livewire/livewire,https://github.com/livewire/livewire/discussions/1210,Livewire with selec2 options from database?,1210,Answered,2020-07-03T06:33:41Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/13933,Error: Cannot find module 'autoprefixer',13933,Unanswered,2020-06-09T09:49:21Z,🙏,Help,Errors
+react-hook-form/react-hook-form,https://github.com/react-hook-form/react-hook-form/discussions/2014,MaterialUI warning on controlled select component,2014,Answered,2020-07-01T19:18:22Z,🙏,Help,Review
+vercel/next.js,https://github.com/vercel/next.js/discussions/14054,Redirection doesn't work in Dev mode with Antd,14054,Unanswered,2020-06-11T06:57:38Z,🙏,Help,Errors
+apollographql/apollo-server,https://github.com/apollographql/apollo-server/discussions/4349,Graphql dependency in monorepo,4349,Unanswered,2020-07-06T15:27:13Z,,,Errors
+vercel/vercel,https://github.com/vercel/vercel/discussions/4784,How to set a large amount of environment variables?,4784,Answered,2020-07-06T02:05:16Z,🙏,Help,Discrepancy
+aws-amplify/amplify-js,https://github.com/aws-amplify/amplify-js/discussions/5665,Keeping an Amplify Session Fresh,5665,Unanswered,2020-05-03T19:20:12Z,,,Errors
+vercel/vercel,https://github.com/vercel/vercel/discussions/4423,500 error when FB crawler attempts to fetch statically generated page,4423,Answered,2020-05-19T18:38:41Z,🙏,Help,Errors
+prestodb/presto,https://github.com/prestodb/presto/discussions/14630,How to use hyperloglog column outside presto?,14630,Unanswered,2020-06-10T08:40:27Z,,,Discrepancy
+tannerlinsley/react-query,https://github.com/tannerlinsley/react-query/discussions/748,"[TypeScript] How to type guard to avoid ""possibly undefined""",748,Answered,2020-07-14T07:27:52Z,,,Review
+react-hook-form/react-hook-form,https://github.com/react-hook-form/react-hook-form/discussions/2053,Parent fields resetting to default values when toggling child fields,2053,Answered,2020-07-03T22:18:05Z,🙏,Help,404
+vercel/next.js,https://github.com/vercel/next.js/discussions/10937,Using scss files requires me to install node-sass,10937,Unanswered,2020-03-10T15:38:05Z,,,Errors
+vercel/next.js,https://github.com/vercel/next.js/discussions/14852,Serving raw html for widget,14852,Answered,2020-07-04T17:54:38Z,🙏,Help,Review
+vercel/next.js,https://github.com/vercel/next.js/discussions/13106,"redirect multiple dynamic pages to root page (pages/blog/:id, pages/categories/:id --> pages/:id)",13106,Unanswered,2020-05-19T18:18:23Z,🙏,Help,Errors
+strapi/strapi,https://github.com/strapi/strapi/discussions/6529,Questions: Push Data Support and,6529,Unanswered,2020-06-03T12:49:53Z,,,Discrepancy
+tannerlinsley/react-table,https://github.com/tannerlinsley/react-table/discussions/2243,Prevent row onClick for Checkbox row,2243,Unanswered,2020-04-29T05:04:49Z,,,Usage
+livewire/livewire,https://github.com/livewire/livewire/discussions/1298,How to avoid validating not changed values,1298,Unanswered,2020-07-21T04:31:49Z,,,Review
+facebook/create-react-app,https://github.com/facebook/create-react-app/discussions/9161,Webpack for granular chunking,9161,Unanswered,2020-06-15T18:28:01Z,🤔,Ideas,Review
+vercel/next.js,https://github.com/vercel/next.js/discussions/11375,exportPathMap for /pages/api,11375,Unanswered,2020-03-26T18:47:53Z,,,Discrepancy
+laravel/framework,https://github.com/laravel/framework/discussions/32810,Proper way to handle Exceptions,32810,Answered,2020-05-13T17:43:08Z,,,Review
+vercel/next.js,https://github.com/vercel/next.js/discussions/10769,"Built-In CSS insert order, Tailwind always at the end",10769,Unanswered,2020-03-01T09:15:58Z,,,Discrepancy
+prisma/prisma,https://github.com/prisma/prisma/discussions/2858,Is it possible to provide a condition to a many to many relation?,2858,Answered,2020-06-25T22:38:26Z,🙏,Help,Review
+vercel/next.js,https://github.com/vercel/next.js/discussions/10808,How to trigger a Next.js build in Now using webhooks,10808,Answered,2020-03-03T16:10:17Z,,,Discrepancy
+aws-amplify/amplify-js,https://github.com/aws-amplify/amplify-js/discussions/5419,AppSync Javascript PWA client not persisting queued mutations after close,5419,Unanswered,2020-04-15T20:05:32Z,,,Review
+vercel/next.js,https://github.com/vercel/next.js/discussions/14113,Is there a way to get build target value (server / serverless) programmatically?,14113,Unanswered,2020-06-12T05:28:24Z,🙏,Help,Discrepancy
+vercel/vercel,https://github.com/vercel/vercel/discussions/4209,is DNSSEC supported?,4209,Answered,2020-04-30T19:44:46Z,,,Discrepancy
+react-spring/react-three-fiber,https://github.com/react-spring/react-three-fiber/discussions/519,<arrowHelper /> Object3DNode overwritten type not updatable,519,Unanswered,2020-06-19T08:02:57Z,,,Review
+parcel-bundler/parcel,https://github.com/parcel-bundler/parcel/discussions/4780,Would help to update the contributing guide,4780,Unanswered,2020-06-21T10:53:27Z,,,Errors
+ImageMagick/ImageMagick,https://github.com/ImageMagick/ImageMagick/discussions/2220,Weighted average of two images,2220,Answered,2020-06-30T12:23:48Z,🙏,Help,Discrepancy
+parcel-bundler/parcel,https://github.com/parcel-bundler/parcel/discussions/4913,common `loader1:loader0(xxx):file_name.suffix`,4913,Unanswered,2020-07-20T07:27:41Z,,,Review
+vercel/vercel,https://github.com/vercel/vercel/discussions/4058,Having multiple Zeit accounts for each of your clients/projects,4058,Answered,2020-04-13T17:10:09Z,,,Discrepancy
+react-spring/react-three-fiber,https://github.com/react-spring/react-three-fiber/discussions/545,Buffer overflow when adding positions to buffer geometry,545,Answered,2020-06-30T21:56:00Z,,,Errors
+directus/directus,https://github.com/directus/directus/discussions/2702,Unable to manage POINT data type,2702,Unanswered,2020-05-09T13:21:49Z,,,Discrepancy
+dotnet/aspnetcore,https://github.com/dotnet/aspnetcore/discussions/23888,Sending additional query string when triggering a sign-in operation in WebAssembly,23888,Unanswered,2020-07-12T23:57:39Z,,,Review
+SixLabors/ImageSharp,https://github.com/SixLabors/ImageSharp/discussions/1219,compatibility and average RGB,1219,Answered,2020-06-09T01:21:29Z,🙏,Help,Discrepancy
+concourse/concourse,https://github.com/concourse/concourse/discussions/5433,Help setting up AWS Secrets manager,5433,Answered,2020-04-14T13:11:26Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/13313,dangerouslySetInnerHTML does not render server side with getStaticProps,13313,Answered,2020-05-24T15:12:27Z,🙏,Help,Errors
+vercel/next.js,https://github.com/vercel/next.js/discussions/13077,RFC: next/form - Interactions for Next.js,13077,Unanswered,2020-05-19T05:07:24Z,🤔,Ideas,Conceptual
+tailwindcss/tailwindcss,https://github.com/tailwindcss/tailwindcss/discussions/1778,[Announcement] We're hiring a developer to join the Tailwind team!,1778,Unanswered,2020-05-15T12:39:22Z,#️⃣,General,Recruitment
+vercel/vercel,https://github.com/vercel/vercel/discussions/4158,Set default timezone for serverless functions,4158,Answered,2020-04-26T10:59:18Z,,,Discrepancy
+goreleaser/goreleaser,https://github.com/goreleaser/goreleaser/discussions/1541,"docs: add a ""cookbooks"" section?",1541,Unanswered,2020-05-22T01:22:36Z,,,Information
+vercel/next.js,https://github.com/vercel/next.js/discussions/14616,Run Next.js app with forever,14616,Unanswered,2020-06-27T06:43:26Z,🙏,Help,Discrepancy
+vercel/vercel,https://github.com/vercel/vercel/discussions/4545,Recommended Developer Workflow for Accessing AWS Resources,4545,Unanswered,2020-06-01T01:24:44Z,🙏,Help,Discrepancy
+strapi/strapi,https://github.com/strapi/strapi/discussions/7092,How to support the tree structure?,7092,Unanswered,2020-07-21T03:42:35Z,,,Discrepancy
+vercel/vercel,https://github.com/vercel/vercel/discussions/4652,Queue Gitlab Integration in the pipeline,4652,Unanswered,2020-06-14T13:02:43Z,🙏,Help,Discrepancy
+aws-amplify/amplify-js,https://github.com/aws-amplify/amplify-js/discussions/5895,exist option to cancel all request?,5895,Unanswered,2020-05-25T23:36:08Z,,,Discrepancy
+vercel/vercel,https://github.com/vercel/vercel/discussions/4594,Add Express example,4594,Answered,2020-06-08T08:04:50Z,🤔,Ideas,Conceptual
+vercel/vercel,https://github.com/vercel/vercel/discussions/4631,Redirecting to a static html file,4631,Answered,2020-06-11T20:56:29Z,🙏,Help,Review
+strapi/strapi,https://github.com/strapi/strapi/discussions/6595,Cannot find any options for changing display name for fields,6595,Unanswered,2020-06-08T21:16:15Z,,,Discrepancy
+vercel/vercel,https://github.com/vercel/vercel/discussions/4248,Is there a shared folder between my frontend and /api?,4248,Answered,2020-05-03T16:31:50Z,,,Discrepancy
+livewire/livewire,https://github.com/livewire/livewire/discussions/1219,Clean temporary directory,1219,Unanswered,2020-07-04T19:34:39Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/11863,next.config.js executes multiple times?,11863,Unanswered,2020-04-13T22:35:17Z,,,Errors
+livewire/livewire,https://github.com/livewire/livewire/discussions/1061,Feature Request: Please make @this.call return a promise,1061,Unanswered,2020-06-05T21:04:49Z,,,Conceptual
+vercel/next.js,https://github.com/vercel/next.js/discussions/13292,Can I hook into the page creation api?,13292,Unanswered,2020-05-23T21:30:05Z,🙏,Help,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/10709,NextJS GET request for the _error page denied when using basic auth in Internet Explorer,10709,Unanswered,2020-02-26T19:04:18Z,,,Errors
+laravel/framework,https://github.com/laravel/framework/discussions/33597,Job Getting Delayed without any reason,33597,Unanswered,2020-07-20T13:42:20Z,,,Errors
+aws-amplify/amplify-js,https://github.com/aws-amplify/amplify-js/discussions/5900,How can I get a URL that never expire in AWS Amplify Storage.get API function?,5900,Unanswered,2020-05-26T11:58:25Z,,,Review
+scrumpy/tiptap,https://github.com/ueberdosis/tiptap/discussions/730,No onClick event handler on editor-content?,730,Answered,2020-06-11T12:20:49Z,,,Review
+alpinejs/alpine,https://github.com/alpinejs/alpine/discussions/587,Transitions without x-for?,587,Answered,2020-06-20T11:34:50Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/12553,scss id wont work,12553,Answered,2020-05-06T10:27:22Z,,,Discrepancy
+tannerlinsley/react-table,https://github.com/tannerlinsley/react-table/discussions/2444,How to hide some columns only for small screens(V7) with bootstrap,2444,Unanswered,2020-06-14T08:00:17Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/14381,`src/components`: Is fast refresh / reload supported?,14381,Answered,2020-06-20T05:44:24Z,🙏,Help,Review
+strapi/strapi,https://github.com/strapi/strapi/discussions/6827,Upload other files types,6827,Unanswered,2020-06-27T07:14:55Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/13325,How to know on the browser if the ENV is dev or prod?,13325,Answered,2020-05-24T22:05:11Z,🙏,Help,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/10806,can we redirect to another page declaretively?,10806,Unanswered,2020-03-03T13:07:57Z,,,Review
+eclipse-theia/theia,https://github.com/eclipse-theia/theia/discussions/8017,นี่คืออะไร...ช่วยด้วย,8017,Answered,2020-06-15T17:25:53Z,,,Other
+concourse/concourse,https://github.com/concourse/concourse/discussions/5553,Worker on Kubernetes with IAM ServiceAccounts,5553,Unanswered,2020-05-06T10:50:52Z,,,Discrepancy
+ImageMagick/ImageMagick,https://github.com/ImageMagick/ImageMagick/discussions/2061,Converting tif image with clipping path to png,2061,Answered,2020-05-23T14:01:48Z,🙏,Help,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/14474,Error deploying a NEXT app with antd,14474,Answered,2020-06-22T23:25:33Z,🙏,Help,Errors
+clap-rs/clap,https://github.com/clap-rs/clap/discussions/1836,Adding an update_from_args/matches() to clap_derive,1836,Answered,2020-04-16T21:16:11Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/10639,Is possible to prefill the React Context API in the getInitialProps step?,10639,Unanswered,2020-02-22T08:54:27Z,,,Conceptual
+apollographql/apollo-client,https://github.com/apollographql/apollo-client/discussions/6344,Frontend Cache Question,6344,Unanswered,2020-05-26T05:29:21Z,,,Discrepancy
+prisma/prisma,https://github.com/prisma/prisma/discussions/1874,Implement an Audit Trail on changes,1874,Answered,2020-03-19T09:05:59Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/14603,Message queue (pub/sub) and NextJS,14603,Unanswered,2020-06-26T21:15:19Z,🙏,Help,Discrepancy
+strapi/strapi,https://github.com/strapi/strapi/discussions/6597,how to create a middleware to protect the DELETE and POST method for user with the same role?,6597,Unanswered,2020-06-09T04:47:25Z,,,Discrepancy
+vercel/vercel,https://github.com/vercel/vercel/discussions/4764,Next.js catch-all route returns 404s in production (@now/next),4764,Unanswered,2020-07-02T08:06:46Z,🙏,Help,Errors
+alpinejs/alpine,https://github.com/alpinejs/alpine/discussions/653,"x-defer, x-reloaded, Control components lifecycle",653,Answered,2020-07-14T09:10:29Z,,,Review
+twbs/bootstrap,https://github.com/twbs/bootstrap/discussions/31239,Open modal programmatically - ReferenceError: bootstrap is not defined,31239,Answered,2020-07-04T19:30:27Z,,,Errors
+vercel/next.js,https://github.com/vercel/next.js/discussions/11784,How to test dynamic API routes?,11784,Answered,2020-04-09T17:31:21Z,,,Review
+strapi/strapi,https://github.com/strapi/strapi/discussions/6031,core dump in strapi,6031,Unanswered,2020-05-02T13:48:31Z,,,Errors
+vercel/next.js,https://github.com/vercel/next.js/discussions/12787,CSS larger in production environment,12787,Unanswered,2020-05-12T13:17:26Z,,,Errors
+vercel/next.js,https://github.com/vercel/next.js/discussions/14131,next/head vs react-helmet,14131,Unanswered,2020-06-12T15:16:39Z,🙏,Help,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/13984,Get CloudKit.js working with Next.js?,13984,Answered,2020-06-10T00:51:56Z,🙏,Help,Errors
+vercel/next.js,https://github.com/vercel/next.js/discussions/11799,How to best do auth in API routes?,11799,Unanswered,2020-04-09T22:28:45Z,,,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/11188,Hybrid AMP and getStaticProps,11188,Answered,2020-03-18T23:13:04Z,,,Errors
+react-hook-form/react-hook-form,https://github.com/react-hook-form/react-hook-form/discussions/2289,Manual validation of field without showing error ?,2289,Unanswered,2020-07-20T11:46:09Z,🙏,Help,Review
+tailwindcss/tailwindcss,https://github.com/tailwindcss/tailwindcss/discussions/1902,Performance utility classes - A table with 1000 rows,1902,Unanswered,2020-06-09T14:12:14Z,🙏,Help,Discrepancy
+vercel/next.js,https://github.com/vercel/next.js/discussions/15310,Server Side Redirect Returns ERR_HTTP_HEADERS_SENT,15310,Unanswered,2020-07-19T18:22:22Z,🙏,Help,Review

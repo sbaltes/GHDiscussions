@@ -1,0 +1,99 @@
+repo_name,URL,domain,num_contributors,num_discussions,num_answered,num_from_issue,discussion_days,num_posts_median,stargazers_count,forks_count,size,open_issues_count,project_days,language,is_fork,is_private,is_archived,is_disabled,has_issues,has_wiki,has_projects,has_downloads
+adonisjs/core,https://github.com/adonisjs/core,Web libraries and frameworks,41,108,65,2,15,3.5,8180,453,5543,25,1776,TypeScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+algolia/instantsearch.js,https://github.com/algolia/instantsearch.js,Web libraries and frameworks,77,7,0,0,93,4,2453,367,290947,91,1801,JavaScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+alpinejs/alpine,https://github.com/alpinejs/alpine,Web libraries and frameworks,70,81,47,0,80,4,9104,345,2750,36,210,JavaScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+ansible-community/molecule,https://github.com/ansible-community/molecule,Software tools,212,8,1,0,63,1,2768,486,12134,107,1681,Python,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+apache/couchdb,https://github.com/apache/couchdb,System software,160,59,40,33,59,4,4587,905,33783,232,4053,Erlang,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+apollographql/apollo-client,https://github.com/apollographql/apollo-client,Web libraries and frameworks,418,53,3,25,136,1,14118,1722,43097,625,1581,TypeScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+apollographql/apollo-server,https://github.com/apollographql/apollo-server,System software,376,10,2,0,84,1,9803,1415,39079,480,1526,TypeScript,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+ardatan/graphql-tools,https://github.com/ardatan/graphql-tools,Software tools,215,11,4,6,54,9,3436,509,21171,35,1556,TypeScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+aws-amplify/amplify-js,https://github.com/aws-amplify/amplify-js,Non-web libraries and frameworks,247,239,52,20,112,1,7050,1339,127965,646,997,TypeScript,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+babel/babel,https://github.com/babel/babel,Software tools,421,34,19,2,74,3,36878,4343,52949,792,2097,JavaScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+badges/shields,https://github.com/badges/shields,Web libraries and frameworks,365,5,3,0,37,2,11205,3017,38953,261,2703,JavaScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+beakerbrowser/beaker,https://github.com/beakerbrowser/beaker,Application software,53,49,21,0,81,3,5473,456,40580,157,1492,JavaScript,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE
+blitz-js/blitz,https://github.com/blitz-js/blitz,Web libraries and frameworks,73,20,8,6,79,9.5,3145,141,8081,87,129,TypeScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+BurntSushi/ripgrep,https://github.com/BurntSushi/ripgrep,Software tools,250,31,30,3,108,3,20398,900,3789,55,1567,Rust,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+cake-build/cake,https://github.com/cake-build/cake,Software tools,181,1,1,0,49,6,2542,612,9261,351,2225,C#,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+cdnjs/cdnjs,https://github.com/cdnjs/cdnjs,Software tools,385,0,0,0,0,0,8627,4367,11491536,10,3408,None,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+chocolatey/choco,https://github.com/chocolatey/choco,https://github.com/chocolatey/choco,78,1,0,0,15,1,6686,676,22766,693,2004,C#,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+clap-rs/clap,https://github.com/clap-rs/clap,Non-web libraries and frameworks,241,59,55,17,121,5,4449,423,10463,175,1947,Rust,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+codesandbox/codesandbox-client,https://github.com/codesandbox/codesandbox-client,System software,241,42,17,14,106,2,9531,1482,281849,639,1276,JavaScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+concourse/concourse,https://github.com/concourse/concourse,Software tools,323,88,33,19,121,4,5035,620,106844,751,2259,Go,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+containerd/containerd,https://github.com/containerd/containerd,System software,238,2,1,2,0,5,5753,1194,58727,126,1686,Go,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+containrrr/watchtower,https://github.com/containrrr/watchtower,Software tools,71,17,9,11,59,5,5997,370,5635,26,1809,Go,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+crate/crate,https://github.com/crate/crate,System software,63,4,0,2,1,1,2763,388,102637,122,2633,Java,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+date-fns/date-fns,https://github.com/date-fns/date-fns,Web libraries and frameworks,252,11,6,3,71,2,22695,1015,13298,213,2089,JavaScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+davidkpiano/xstate,https://github.com/davidkpiano/xstate,Application software,157,66,37,6,59,4,12105,481,27400,106,1746,TypeScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+directus/directus,https://github.com/directus/directus,Application software,72,106,48,0,94,3,6947,671,153419,1,2752,PHP,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE
+dotansimha/graphql-code-generator,https://github.com/dotansimha/graphql-code-generator,Application software,219,45,21,17,92,3,4961,478,48488,116,1298,TypeScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+dotnet/aspnetcore,https://github.com/dotnet/aspnetcore,Web libraries and frameworks,343,126,22,11,71,2,18050,5037,307973,2440,2298,C#,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+dotnet/efcore,https://github.com/dotnet/efcore,Non-web libraries and frameworks,206,40,31,0,52,4,9199,2335,102058,1411,2345,C#,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+dotnet/maui,https://github.com/dotnet/maui,Software tools,279,20,3,11,35,3,3593,136,71752,123,48,C#,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+dotnet/roslyn,https://github.com/dotnet/roslyn,Software tools,278,3,2,1,54,2,13116,3037,975413,7512,1992,C#,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+dotnet/runtime,https://github.com/dotnet/runtime,Web libraries and frameworks,312,13,5,0,52,3,2848,1017,376833,6139,275,C#,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+dotnet/winforms,https://github.com/dotnet/winforms,Software tools,96,0,0,0,0,0,2692,409,59674,333,615,C#,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+dracula/dracula-theme,https://github.com/dracula/dracula-theme,Software tools,61,7,2,0,80,5,12778,1139,1121,34,2433,None,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+eclipse-theia/theia,https://github.com/eclipse-theia/theia,Software tools,158,58,32,10,106,4,11061,1266,130609,1364,1217,TypeScript,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+edgedb/edgedb,https://github.com/edgedb/edgedb,System software,20,19,14,3,35,4,3978,100,19316,142,1092,Python,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+Eugeny/terminus,https://github.com/Eugeny/terminus,Application software,41,6,1,1,38,1,14576,656,44779,393,1280,TypeScript,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+facebook/create-react-app,https://github.com/facebook/create-react-app,Web libraries and frameworks,470,52,14,6,70,2,79746,19303,14441,604,1439,JavaScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+facebook/docusaurus,https://github.com/facebook/docusaurus,Web libraries and frameworks,394,8,3,0,70,7.5,17685,1931,76428,146,1101,JavaScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+fastify/fastify,https://github.com/fastify/fastify,Web libraries and frameworks,275,2,1,0,36,6,14735,1044,3396,61,1366,JavaScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+fastlane/fastlane,https://github.com/fastlane/fastlane,Software tools,392,59,18,0,22,2,29167,4581,68453,234,2032,Ruby,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+formik/formik,https://github.com/formik/formik,Web libraries and frameworks,360,15,5,0,77,2,22764,1689,5914,643,1107,TypeScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+gitextensions/gitextensions,https://github.com/gitextensions/gitextensions,Software tools,316,6,2,0,71,3.5,4983,1489,107621,911,4219,C#,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE
+gomods/athens,https://github.com/gomods/athens,Software tools,154,9,2,0,178,4,3194,369,53692,124,851,Go,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+google/jax,https://github.com/google/jax,Non-web libraries and frameworks,198,15,12,6,44,4,8778,699,24193,507,609,Python,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+goreleaser/goreleaser,https://github.com/goreleaser/goreleaser,Software tools,162,46,41,4,122,3,5803,408,9105,36,1282,Go,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+graphql/graphiql,https://github.com/graphql/graphiql,Web libraries and frameworks,148,9,1,6,58,8,10874,1130,13203,142,1780,TypeScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+gulpjs/gulp,https://github.com/gulpjs/gulp,Software tools,223,18,3,10,75,3,31801,4393,1054,23,2548,JavaScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+ImageMagick/ImageMagick,https://github.com/ImageMagick/ImageMagick,Software tools,80,315,136,3,123,4,3977,652,108006,202,1866,C,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+ionic-team/capacitor,https://github.com/ionic-team/capacitor,Application software,213,98,32,30,52,3,4095,546,65360,134,950,Java,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+keystonejs/keystone,https://github.com/keystonejs/keystone,Web libraries and frameworks,125,38,24,4,70,3.5,2311,321,176709,325,812,JavaScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+laravel/framework,https://github.com/laravel/framework,Web libraries and frameworks,383,221,52,73,81,2,21370,7396,46006,6,2723,PHP,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+libgit2/libgit2,https://github.com/libgit2/libgit2,Software tools,393,2,1,0,9,2,7471,1937,53439,325,3576,C,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+linkerd/linkerd2,https://github.com/linkerd/linkerd2,Software tools,120,31,12,12,85,5,5688,554,20223,278,934,Go,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+livewire/livewire,https://github.com/livewire/livewire,Web libraries and frameworks,83,108,27,0,69,2,4444,321,5486,109,499,PHP,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+meilisearch/MeiliSearch,https://github.com/meilisearch/MeiliSearch,Application software,28,43,21,8,102,3,6087,171,23179,63,794,Rust,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+nlohmann/json,https://github.com/nlohmann/json,Non-web libraries and frameworks,178,44,31,7,36,5,19202,3397,196748,40,2548,C++,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+npm/cli,https://github.com/npm/cli,Software tools,441,0,0,0,0,0,3280,836,47617,696,721,JavaScript,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE
+nuxt/nuxt.js,https://github.com/nuxt/nuxt.js,Web libraries and frameworks,254,3,0,0,11,2,27995,2467,35657,327,1338,JavaScript,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+octokit/octokit.rb,https://github.com/octokit/octokit.rb,Web libraries and frameworks,242,0,0,0,0,0,3285,1083,16434,51,3850,Ruby,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+octokit/rest.js,https://github.com/octokit/rest.js,Non-web libraries and frameworks,217,17,13,2,80,4,4114,856,12452,29,3669,JavaScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+outline/outline,https://github.com/outline/outline,Application software,32,31,10,2,78,3,8907,588,12646,87,1495,JavaScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+parcel-bundler/parcel,https://github.com/parcel-bundler/parcel,Software tools,251,89,40,16,73,3,36056,1744,17074,572,1053,JavaScript,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+PrefectHQ/prefect,https://github.com/PrefectHQ/prefect,Software tools,79,13,6,0,37,2,2747,234,36711,177,727,Python,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+prestodb/presto,https://github.com/prestodb/presto,System software,333,3,0,0,53,1,10651,3669,133312,981,2877,Java,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+prisma/prisma,https://github.com/prisma/prisma,Software tools,103,271,160,15,134,3,3910,247,8895,445,371,TypeScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+probot/probot,https://github.com/probot/probot,Software tools,129,1,1,0,42,5,5987,628,5559,47,1378,TypeScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+qutebrowser/qutebrowser,https://github.com/qutebrowser/qutebrowser,Application software,285,8,8,0,42,4,5585,749,46859,794,2191,Python,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+rabbitmq/rabbitmq-server,https://github.com/rabbitmq/rabbitmq-server,System software,87,5,3,3,18,4,7275,2559,83753,79,3566,Erlang,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+react-hook-form/react-hook-form,https://github.com/react-hook-form/react-hook-form,Web libraries and frameworks,109,276,183,13,71,4.5,11565,509,11898,9,478,TypeScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+react-spring/react-spring,https://github.com/react-spring/react-spring,Web libraries and frameworks,98,48,9,10,80,2,17400,744,54039,100,841,JavaScript,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+react-spring/react-three-fiber,https://github.com/react-spring/react-three-fiber,Web libraries and frameworks,76,113,70,5,94,4,8648,378,5865,36,486,TypeScript,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+react-spring/zustand,https://github.com/react-spring/zustand,Web libraries and frameworks,18,0,0,0,0,0,2537,72,1894,35,443,TypeScript,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+react-static/react-static,https://github.com/react-static/react-static,Web libraries and frameworks,208,24,6,0,71,2.5,8774,741,39439,74,1020,JavaScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+ruffle-rs/ruffle,https://github.com/ruffle-rs/ruffle,Application software,18,9,1,2,44,2,2385,66,7097,162,427,Rust,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
+scrumpy/tiptap,https://github.com/scrumpy/tiptap,Software tools,44,35,5,18,88,2,7430,721,5026,260,675,JavaScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+Shopify/polaris-react,https://github.com/Shopify/polaris-react,Web libraries and frameworks,192,0,0,0,0,0,3375,624,25504,192,1162,TypeScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+SixLabors/ImageSharp,https://github.com/SixLabors/ImageSharp,Non-web libraries and frameworks,98,32,21,2,53,5,4010,528,118590,43,1336,C#,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+slatedocs/slate,https://github.com/slatedocs/slate,Software tools,115,32,12,16,66,2,30054,19204,1441,18,2477,CSS,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE
+spatie/laravel-activitylog,https://github.com/spatie/laravel-activitylog,Web libraries and frameworks,78,20,15,7,57,2.5,3177,436,1106,25,1463,PHP,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+spatie/laravel-backup,https://github.com/spatie/laravel-backup,Application software,128,23,5,15,63,2,4017,531,1445,0,1955,PHP,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+spatie/laravel-medialibrary,https://github.com/spatie/laravel-medialibrary,Web libraries and frameworks,161,58,13,28,65,1.5,3840,625,5881,14,1899,PHP,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+spatie/laravel-query-builder,https://github.com/spatie/laravel-query-builder,Web libraries and frameworks,64,16,6,8,65,2,2318,195,868,9,892,PHP,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+starship/starship,https://github.com/starship/starship,Application software,150,45,29,4,121,3,8154,363,13980,196,450,Rust,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+storybookjs/storybook,https://github.com/storybookjs/storybook,Software tools,378,33,16,0,70,3,49590,4846,316274,628,1560,TypeScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+strapi/strapi,https://github.com/strapi/strapi,Web libraries and frameworks,380,465,201,134,105,3,26699,3261,268723,229,1730,JavaScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+system-ui/theme-ui,https://github.com/system-ui/theme-ui,Web libraries and frameworks,87,14,4,0,44,2.5,2633,334,14922,136,449,TypeScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+tailwindcss/tailwindcss,https://github.com/tailwindcss/tailwindcss,Web libraries and frameworks,117,231,70,18,148,3,24537,1130,10327,176,993,CSS,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+tannerlinsley/react-query,https://github.com/tannerlinsley/react-query,Web libraries and frameworks,154,163,81,44,142,4,8359,310,3652,2,289,JavaScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+tannerlinsley/react-table,https://github.com/tannerlinsley/react-table,Web libraries and frameworks,221,331,68,36,143,2,11428,1578,14706,51,1344,JavaScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+tokio-rs/tokio,https://github.com/tokio-rs/tokio,Non-web libraries and frameworks,350,18,14,7,70,3,8655,802,8367,249,1385,Rust,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+trailofbits/algo,https://github.com/trailofbits/algo,Application software,144,5,0,0,97,1,18582,1584,2857,79,1502,Python,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+twbs/bootstrap,https://github.com/twbs/bootstrap,Web libraries and frameworks,370,74,33,5,108,3,141994,69129,159412,395,3254,JavaScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+vercel/next.js,https://github.com/vercel/next.js,Web libraries and frameworks,468,2205,638,269,198,3,50020,7683,39253,580,1359,JavaScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+vercel/swr,https://github.com/vercel/swr,Web libraries and frameworks,74,65,23,4,196,3,10737,335,1003,109,241,TypeScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+vercel/vercel,https://github.com/vercel/vercel,Software tools,151,567,367,9,149,3,5413,700,74484,134,1385,TypeScript,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE
+vuetifyjs/vuetify,https://github.com/vuetifyjs/vuetify,Web libraries and frameworks,446,15,7,1,99,2,26101,4507,61133,1136,1382,TypeScript,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+xamarin/Xamarin.Forms,https://github.com/xamarin/Xamarin.Forms,Software tools,289,37,2,17,35,3,4587,1772,83043,2558,1560,C#,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE
