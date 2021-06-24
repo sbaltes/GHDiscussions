@@ -1,6 +1,6 @@
 # Research Artifact: An Exploratory Study of GitHub Discussions Early Adoption
 
-[![DOI](https://zenodo.org/badge/337520551.svg)](https://zenodo.org/badge/latestdoi/337520551)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5026134.svg)](https://doi.org/10.5281/zenodo.5026134)
 
 This is a research artifact for the study **GitHub Discussions: An Exploratory Study of Early Adoption**. The following research questions were constructed to guide the study.
 
